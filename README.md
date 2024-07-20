@@ -91,12 +91,12 @@ Now press (Ctrl-X) to exit
     
     sudo apt-get install redis-server
 
-### STEP 9 install Node.js 14.X package
+### STEP 9 install Node.js 18.X package
 
     sudo apt install curl 
     curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
     source ~/.profile
-    nvm install 14.15.0  
+    nvm install 18
 
 ### STEP 10  install Yarn
 
