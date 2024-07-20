@@ -129,7 +129,8 @@ Now press (Ctrl-X) to exit
     bench use dcode.com
 
 ### STEP 15 install ERPNext latest version in bench & site
-
+    sudo apt-get -y install supervisor
+    
     bench get-app erpnext --branch version-15
     ###OR
     bench get-app https://github.com/frappe/erpnext --branch version-15
