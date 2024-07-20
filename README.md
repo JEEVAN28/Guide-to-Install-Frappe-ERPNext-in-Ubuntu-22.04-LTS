@@ -139,6 +139,9 @@ Now press (Ctrl-X) to exit
     bench get-app payments --branch version-15
     bench get-app healthcare --branch version-15
     bench get-app https://github.com/resilient-tech/india-compliance.git --branch version-15
+    bench get-app lending --branch version-15
+    bench get-app lms --branch version-15
+    bench get-app insights --branch version-15
 
     bench --site dcode.com install-app erpnext
     
